@@ -1,0 +1,4 @@
+File,Type,Description
+example1.txt,Text,Sample AWS S3 test file
+info.pdf,PDF,Sample PDF for upload
+photo.jpg,Image,Test image for S3
