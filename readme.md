@@ -15,7 +15,6 @@ To demonstrate creating and using an AWS S3 bucket for secure file storage.
 
 2. *S3 Bucket Creation*
    - Bucket Name: pranjalgawhande372
-   - Region: Europe (Stockholm) (as per screenshot)
    - (Screenshot: AWS S3 Console with bucket created)
 
 3. *File Upload*
